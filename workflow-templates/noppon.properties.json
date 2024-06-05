@@ -1,0 +1,13 @@
+{
+    "name": "noppon template",
+    "description": "test",
+    "iconName": "thumbsup",
+    "categories": [
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
