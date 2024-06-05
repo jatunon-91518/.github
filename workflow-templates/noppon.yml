@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Echo message
-      run: echo 'noppon'
+      run: echo 'noppon 2222'
