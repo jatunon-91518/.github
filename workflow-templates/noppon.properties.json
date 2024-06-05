@@ -1,7 +1,7 @@
 {
     "name": "noppon template",
     "description": "test",
-    "iconName": "thumbsup",
+    "iconName": "Octicons accessibility-inset",
     "categories": [
         "continuous-integration"
     ],
