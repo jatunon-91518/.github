@@ -4,10 +4,5 @@
     "iconName": "Octicons accessibility-inset",
     "categories": [
         "continuous-integration"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }
